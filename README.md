@@ -19,7 +19,7 @@
     
 ## 3、训练：
 ### 3.1不定长文本识别训练
-   #### 3.1.1进入data_processing文件下，根据自己需要修改char_std_5990.txt里的内容，然后按照如下顺序依次执行
+   #### 3.1.1进入data_processing文件下，根据自己需要修改char_std_5990.txt里的内容，然后按照如下顺序依次执行下列两个py代码
    ```angular2
   1、data_enhancement.py
   2、train.py
