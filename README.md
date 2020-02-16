@@ -32,5 +32,5 @@
 图片存放在text-detection-ctpn-untagged\data\VOCdevkit2007\VOC2007\JPEGImages下，有2000张左右的训练集。
  #### 3.2.2具体训练过程参考：https://github.com/eragonruan/text-detection-ctpn
       
-## 代码来源：
+## 代码参考来源：
 [1] https://github.com/YCG09/chinese_ocr
